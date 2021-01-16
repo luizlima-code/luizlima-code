@@ -3,7 +3,7 @@
 <h1/>
 
 <p align='center'>
-  <img src="https://64.media.tumblr.com/25fc921ee98d5ff08df6ca44f309a526/tumblr_n0101u2zWe1s5x8pdo1_500.gifv" width="350" height="150"/>
+  <img src="https://64.media.tumblr.com/25fc921ee98d5ff08df6ca44f309a526/tumblr_n0101u2zWe1s5x8pdo1_500.gifv" width="250" height="100"/>
 </p>
 
 <p align='center'>
@@ -35,7 +35,7 @@
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </br> </br>
 
 <p align='center'>
-  <img src="https://i1.kym-cdn.com/photos/images/original/000/538/716/7f5.gif" width="400" height="250"/>
+  <img src="https://i1.kym-cdn.com/photos/images/original/000/538/716/7f5.gif" width="250" height="100"/>
 </p>
 
 </details>
