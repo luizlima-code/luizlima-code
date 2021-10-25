@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  Tenho 21 anos e sou <i>estudante de desenvolvimento web</i>. </br>
+  Tenho 22 anos e sou <i>desenvolvedor web</i>. </br>
   :rocket: Prezo muito o crescimento pessoal e profissional :rocket: 
 </p>
 
@@ -68,7 +68,7 @@
    <a href="https://wa.me/5534998776020" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    </a>
-   <a href="https://www.linkedin.com/in/luiz-henrique-alves-de-lima-1185101b7/" target="_blank">
+   <a href="https://www.linkedin.com/in/luizlima-code/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  </p>
